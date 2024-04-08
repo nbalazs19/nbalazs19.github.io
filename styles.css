@@ -1,5 +1,5 @@
 #alap{
-background: linear-gradient(45deg,rgb(60, 117, 250), black);
+background: rgb(60, 117, 250);
     border: 1px solid black;
     display: flex;
     flex-direction: column;
