@@ -1,15 +1,21 @@
 body{
     background: linear-gradient(45deg,rgb(60, 117, 250), purple); 
+    max-width: 1000px;
+    background-attachment: fixed;
 }
 #alap{
-    width: 400px;
-    height: 300px;
-    border: 1px solid black;
+    position: relative;
+    left: 50%;
+    width: 500px;
+    height: 200px;
+    border: 5px solid black;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    min-height: 100vh;
     margin: 0;
+    color: black;
+}
+a{
     color: black;
 }
