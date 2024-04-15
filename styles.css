@@ -1,5 +1,9 @@
+body{
+    background: linear-gradient(45deg,rgb(60, 117, 250), purple); 
+}
 #alap{
-    background-color: lightblue;
+    width: 400px;
+    height: 300px;
     border: 1px solid black;
     display: flex;
     flex-direction: column;
